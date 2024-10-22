@@ -7,6 +7,7 @@ At the heart of this project lies the pressing water crisis in the fictitious co
 The project was designed to progressively challenge me, offering less guidance as I advanced, which pushed me to enhance my problem-solving skills. Over the course of five weeks in the SQL module, I not only gained a profound understanding of SQL but also developed a strategic blueprint for approaching future challenges. This experience has equipped me with the tools and insights necessary to address complex issues in water resource management, ultimately contributing to a better understanding of the obstacles faced by communities in Maji Ndogo.
 
 ![image alt text](https://github.com/AimadSADOUK/Comprehensive-Analysis-of-Water-Resource-Management-in-Maji-Ndogo-/blob/main/EXPLORE%20AI%20ACADEMY.PNG?raw=true)
+![image alt text(https://github.com/AimadSADOUK/Comprehensive-Analysis-of-Water-Resource-Management-in-Maji-Ndogo-/blob/main/Maji%20Ndogo.PNG?raw=true)
 ## employee_Table:
 The Maji Ndogo dataset reveals 56 unique employees. Hawassa leads with 15 employees, followed by Akatsi (13) and Kilimani (12). The town of Rural has the highest count at 29 employees, indicating it as a central hub. The Field Surveyor position is the most common, with 29 employees, reflecting a strong emphasis on fieldwork. Average employee counts show Kilimani (Rural) at 9.00, and both Hawassa (Rural) and Sokoto (Rural) at 7.00, highlighting staffing needs in rural areas.
 Insights:
