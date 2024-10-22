@@ -77,7 +77,7 @@ Pollution Impact:
 * In provinces such as Akatsi and Sokoto, regions with high pollution levels (with 9.99 ppm), the water quality ratings remain consistently low at 2.00, suggesting a direct negative correlation between higher pollution levels and poor water quality ratings.
 Pollution Type Analysis:
 
-*Provinces like Akatsi and Kilimani report the highest number of chemical pollution instances, particularly in rural areas. For example, Akatsi Rural alone had 1,685 instances of chemical pollution, while biological pollution is significantly less frequent across these regions.
+* Provinces like Akatsi and Kilimani report the highest number of chemical pollution instances, particularly in rural areas. For example, Akatsi Rural alone had 1,685 instances of chemical pollution, while biological pollution is significantly less frequent across these regions.
 
 ## Visits + Water Source Table (Joins):
 Visit Count per Water Source: Which water sources have the highest visit counts in each town or province?
