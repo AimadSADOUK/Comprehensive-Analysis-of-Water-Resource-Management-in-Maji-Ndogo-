@@ -12,6 +12,8 @@ The project was designed to progressively challenge me, offering less guidance a
 ![image alt text](https://github.com/AimadSADOUK/Comprehensive-Analysis-of-Water-Resource-Management-in-Maji-Ndogo-/blob/main/EXPLORE%20AI%20ACADEMY.PNG?raw=true)
 ![image alt text](https://github.com/AimadSADOUK/Comprehensive-Analysis-of-Water-Resource-Management-in-Maji-Ndogo-/blob/main/Maji%20Ndogo.PNG?raw=true)
 
+# Relationships between tables
+![image alt text](https://github.com/AimadSADOUK/Comprehensive-Analysis-of-Water-Resource-Management-in-Maji-Ndogo-/blob/main/tables_relationships.PNG?raw=true)
 ## employee_Table:
 The Maji Ndogo dataset reveals 56 unique employees. Hawassa leads with 15 employees, followed by Akatsi (13) and Kilimani (12). The town of Rural has the highest count at 29 employees, indicating it as a 
 central hub. The Field Surveyor position is the most common, with 29 employees, reflecting a strong emphasis on fieldwork. Average employee counts show Kilimani (Rural) at 9.00, and both Hawassa (Rural) and Sokoto (Rural) at 7.00, highlighting staffing needs in rural areas.
