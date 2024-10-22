@@ -22,9 +22,6 @@ central hub. The Field Surveyor position is the most common, with 29 employees, 
 * A focus on Field Surveyors suggests priority on data collection.
 * Rural towns may benefit from increased staffing to improve service delivery.
 
-<h1 style="color:darkblue;">Relationships between tables</h1>
-![image alt text](https://github.com/AimadSADOUK/Comprehensive-Analysis-of-Water-Resource-Management-in-Maji-Ndogo-/blob/main/tables_relationships.PNG?raw=true)
-
 ## location_table:
 Distribution of Locations: What is the distribution of different location types (urban/rural) across various provinces?
 
@@ -123,7 +120,8 @@ How can we analyze the relationship between well pollution levels, water quality
 * Quality and Pollution Correlation: Towns like Hawassa exhibit low average water quality scores alongside varying pollution levels, indicating potential risks to public health
 * Focus Areas: Regions with the lowest scores should be prioritized for interventions to improve water quality and reduce pollution.
 
-
+# Relationships between tables
+![image alt text](https://github.com/AimadSADOUK/Comprehensive-Analysis-of-Water-Resource-Management-in-Maji-Ndogo-/blob/main/tables_relationships.PNG?raw=true)
 
 
 
