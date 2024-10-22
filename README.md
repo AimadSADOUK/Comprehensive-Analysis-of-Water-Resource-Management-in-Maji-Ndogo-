@@ -22,7 +22,7 @@ central hub. The Field Surveyor position is the most common, with 29 employees, 
 * A focus on Field Surveyors suggests priority on data collection.
 * Rural towns may benefit from increased staffing to improve service delivery.
 
-# Relationships between tables
+<h1 style="color:darkblue;">Relationships between tables</h1>
 ![image alt text](https://github.com/AimadSADOUK/Comprehensive-Analysis-of-Water-Resource-Management-in-Maji-Ndogo-/blob/main/tables_relationships.PNG?raw=true)
 
 ## location_table:
