@@ -39,7 +39,7 @@ Top Towns:
 
 Provincial Comparison:
 * Kilimani leads with 9,510 total locations (22.6% of the total), followed by Akatsi with 8,940 (21.3%), and Sokoto with 8,220 (19.5%).
-Hawassa has the fewest locations, representing 14.3% of the total, potentially indicating underserved areas.
+* Hawassa has the fewest locations, representing 14.3% of the total, potentially indicating underserved areas.
 
 ## visits_table:
 Visits Volume: What are the busiest times of day for visits across different locations?
