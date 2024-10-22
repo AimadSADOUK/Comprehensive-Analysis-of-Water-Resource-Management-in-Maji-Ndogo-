@@ -21,17 +21,17 @@ The Maji Ndogo dataset reveals 56 unique employees. Hawassa leads with 15 employ
 * Rural towns may benefit from increased staffing to improve service delivery.
 
 ## location_table:
-Distribution of Locations: What is the distribution of different location types (urban/rural) across various provinces?
-Top Towns by Locations: Which towns have the highest number of recorded locations in each province?
-Province Comparison: How does the number of locations compare across different provinces?
-Rural Areas Dominate:
-Akatsi has 6,290 rural locations, followed by Kilimani with 5,440, and Sokoto with 5,010.
-Rural locations make up a significant portion of the total, e.g., Akatsi's rural locations represent 70% of its total locations.
-Top Towns:
-Akatsi's rural area leads with 6,290 locations.
-Urban areas like Lusaka (1,070 locations) and Mrembo (990 locations) follow, but rural areas account for the majority—69% of the top 10 recorded locations are rural.
-Provincial Comparison:
-Kilimani leads with 9,510 total locations (22.6% of the total), followed by Akatsi with 8,940 (21.3%), and Sokoto with 8,220 (19.5%).
+- Distribution of Locations: What is the distribution of different location types (urban/rural) across various provinces?
+- Top Towns by Locations: Which towns have the highest number of recorded locations in each province?
+- Province Comparison: How does the number of locations compare across different provinces?
++ Rural Areas Dominate:
+* Akatsi has 6,290 rural locations, followed by Kilimani with 5,440, and Sokoto with 5,010.
+* Rural locations make up a significant portion of the total, e.g., Akatsi's rural locations represent 70% of its total locations.
++ Top Towns:
+* Akatsi's rural area leads with 6,290 locations.
+* Urban areas like Lusaka (1,070 locations) and Mrembo (990 locations) follow, but rural areas account for the majority—69% of the top 10 recorded locations are rural.
++ Provincial Comparison:
+* Kilimani leads with 9,510 total locations (22.6% of the total), followed by Akatsi with 8,940 (21.3%), and Sokoto with 8,220 (19.5%).
 Hawassa has the fewest locations, representing 14.3% of the total, potentially indicating underserved areas.
 
 ## visits_table:
