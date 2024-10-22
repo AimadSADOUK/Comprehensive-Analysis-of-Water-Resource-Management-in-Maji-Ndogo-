@@ -1,5 +1,6 @@
 # Comprehensive Analysis of Water Resource Management in Maji Ndogo (Restoring the lifeblood of Maji Ndogo)
 © ExploreAI Academy
+
 Project realised by: Aimad SADOUK
 
 ### Project Description:
@@ -50,6 +51,7 @@ Most Frequently Visited Water Sources: The most frequently visited water source 
    10. Pollution Trends: Which pollutants (in ppm) are most prevalent in different regions over time ?
    11. Pollution Impact: What is the relationship between the level of pollution and the water quality rating in different locations?
    12. Pollution Type Analysis: Which towns or provinces report the most instances of biological pollution compared to chemical pollution?
+       
 E. coli bacteria appears as the most prevalent pollutant in provinces like Kilimani, Hawassa, and Sokoto, especially in 2022 and 2021, with Kilimani leading in the number of occurrences (168 and 164 instances in 2022 and 2021, respectively).
 Pollution Impact:
 In provinces such as Akatsi and Sokoto, regions with high pollution levels (with 9.99 ppm), the water quality ratings remain consistently low at 2.00, suggesting a direct negative correlation between higher pollution levels and poor water quality ratings.
