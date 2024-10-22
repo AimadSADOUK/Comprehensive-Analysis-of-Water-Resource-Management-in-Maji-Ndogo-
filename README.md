@@ -104,14 +104,18 @@ How can we analyze the relationship between well pollution levels, water quality
 * Top Employees: Bello Azibo stands out as the highest-performing employee with 3,708 visits, followed closely by Pili Zola and Rudo Imani.
 * Average Queue Time: Employees like Farai Nia and Enitan Zuri maintain relatively low average queue times, suggesting efficiency in managing visits.
 
+
 * Yearly Trends: The analysis reveals a consistent occurrence of "Low" and "Moderate" pollution levels across provinces like Akatsi and Amanzi, indicating potential environmental concerns.
 * Monitoring Needed: Continuous monitoring of pollutant levels is crucial, especially in years with increasing occurrences.
+
 
 * Top Towns: Akatsi frequently appears among the top towns for visits, indicating its significance in the region.
 * Monthly Variations: Fluctuations in visits highlight seasonal trends, which may be linked to factors such as public health campaigns or environmental changes.
 
+
 * Popular Sources: Shared taps serve the highest number of people, suggesting their importance in the community.
 * Service Ranking: Well and home taps follow, highlighting the need for maintaining these sources for sustainability.
+
 
 * Quality and Pollution Correlation: Towns like Hawassa exhibit low average water quality scores alongside varying pollution levels, indicating potential risks to public health
 * Focus Areas: Regions with the lowest scores should be prioritized for interventions to improve water quality and reduce pollution.
