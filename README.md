@@ -6,7 +6,7 @@ Project realised by: Aimad SADOUK
 At the heart of this project lies the pressing water crisis in the fictitious country of Maji Ndogo. During my training with Explore AI Academy, I was tasked with exploring this critical issue, which provided a unique opportunity to dive deep into the complexities of SQL. Throughout this journey, I tackled intricate problems that required critical thinking and innovative solutions.
 The project was designed to progressively challenge me, offering less guidance as I advanced, which pushed me to enhance my problem-solving skills. Over the course of five weeks in the SQL module, I not only gained a profound understanding of SQL but also developed a strategic blueprint for approaching future challenges. This experience has equipped me with the tools and insights necessary to address complex issues in water resource management, ultimately contributing to a better understanding of the obstacles faced by communities in Maji Ndogo.
 
-![image alt text]()
+![image alt text](https://github.com/AimadSADOUK/Comprehensive-Analysis-of-Water-Resource-Management-in-Maji-Ndogo-/blob/main/EXPLORE%20AI%20ACADEMY.PNG?raw=true)
 ## employee_Table:
 The Maji Ndogo dataset reveals 56 unique employees. Hawassa leads with 15 employees, followed by Akatsi (13) and Kilimani (12). The town of Rural has the highest count at 29 employees, indicating it as a central hub. The Field Surveyor position is the most common, with 29 employees, reflecting a strong emphasis on fieldwork. Average employee counts show Kilimani (Rural) at 9.00, and both Hawassa (Rural) and Sokoto (Rural) at 7.00, highlighting staffing needs in rural areas.
 Insights:
@@ -46,7 +46,7 @@ Water Sources Serving Largest Populations: In Akatsi, the shared tap serves the 
 Most Frequently Visited Water Sources: The most frequently visited water source type is shared taps with 26,263 visits, followed by wells with 17,383 visits and tap in homes with 7,265 visits, suggesting a preference for easily accessible water sources among the population.
 
 ## well_pollution table:
-    10. Pollution Trends: Which pollutants (in ppm) are most prevalent in different regions over time?
+   10. Pollution Trends: Which pollutants (in ppm) are most prevalent in different regions over time ?
    11. Pollution Impact: What is the relationship between the level of pollution and the water quality rating in different locations?
    12. Pollution Type Analysis: Which towns or provinces report the most instances of biological pollution compared to chemical pollution?
 E. coli bacteria appears as the most prevalent pollutant in provinces like Kilimani, Hawassa, and Sokoto, especially in 2022 and 2021, with Kilimani leading in the number of occurrences (168 and 164 instances in 2022 and 2021, respectively).
