@@ -22,7 +22,9 @@ The Maji Ndogo dataset reveals 56 unique employees. Hawassa leads with 15 employ
 
 ## location_table:
 Distribution of Locations: What is the distribution of different location types (urban/rural) across various provinces?
+
 Top Towns by Locations: Which towns have the highest number of recorded locations in each province?
+
 Province Comparison: How does the number of locations compare across different provinces?
 
 Rural Areas Dominate:
