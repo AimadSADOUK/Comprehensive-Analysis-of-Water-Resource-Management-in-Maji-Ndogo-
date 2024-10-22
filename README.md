@@ -86,9 +86,9 @@ Queue Time by Water Source: What is the average queue time for each type of wate
 
 Water Source Utilization: How do the number of visits and the population served correlate for each water source type?
 
-*Highest visit counts: Shared taps in Akatsi (5,774), Kilimani (4,900), and Sokoto (4,138) have the most visits.
-*Queue time: Kilimani has the longest average wait for shared taps (139.71 minutes), followed by Sokoto (136.60 minutes).
-*Water source utilization: All water sources, including taps and wells, have very low utilization ratios compared to the population served.
+* Highest visit counts: Shared taps in Akatsi (5,774), Kilimani (4,900), and Sokoto (4,138) have the most visits.
+* Queue time: Kilimani has the longest average wait for shared taps (139.71 minutes), followed by Sokoto (136.60 minutes).
+* Water source utilization: All water sources, including taps and wells, have very low utilization ratios compared to the population served.
 
 ## Other Questions:
 How can we summarize the total number of visits managed by each employee, their average queue time, and rank them by visit count, displaying only the top 10 employees?
